@@ -1,4 +1,4 @@
-# Transcreve Audio
+# Transcreve Audio :studio_microphone: :black_nib:
 
 A idéia é utilizar o Gemini para transcrever áudios, principalmente os do whatsapp, futuramente quero incluir isso em um chatbot automatizado (seja no próprio whatsapp ou no telegram) onde o usuário envia o áudio e ele é devolvido transcrito.
 
@@ -12,7 +12,7 @@ Outra anomalia notada durante os testes foi que o modelo acaba aluciando com áu
 *  Insira sua API key nos secrets do google colab
 *  Rode a instalação de dependências
 *  Rode o códio principal (os comentários detalhados estarão diretamente nele usando o formato #)
-*  Logo abaixo do código principal sera exibido um botão para op upload do áudio
+*  Logo abaixo do código principal sera exibido um botão para o upload do áudio
 *  Escolha o áudio teste presente no projeto
 *  Se tudo der certo (e a IA não alucinar :smile:) a transcrição aparecerá logo abaixo
 
